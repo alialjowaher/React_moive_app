@@ -1,6 +1,6 @@
 # React_moive_app
-Learning React JS and making a working Movies app similar to IMDB
-#########################################################################################
+Learning React JS and making a Movies app inspired by IMDB
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
